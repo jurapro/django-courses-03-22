@@ -1,0 +1,5 @@
+# Project exclude paths
+/env/
+.idea
+/demoproject/files/*
+demoproject/db.sqlite3
